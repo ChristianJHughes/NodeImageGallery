@@ -1,0 +1,14 @@
+{
+  "gallery": "Fish",
+  "desc": "This is a gallery containing fish. This is a sample.",
+  "Images": [{
+    "filename": "fish1.jpg",
+    "caption": "This is fish 1."
+  }, {
+    "filename": "fish2.JPG",
+    "caption": "This is fish 2."
+  }, {
+    "filename": "fish3.jpg",
+    "caption": "This is fish 3."
+  }]
+}

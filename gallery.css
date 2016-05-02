@@ -1,0 +1,16 @@
+header > h1, header > h4 {
+  text-align: center;
+}
+
+img {
+  width: 40%;
+  height: 40%;
+}
+
+h3 {
+  color: blue;
+}
+
+h4 {
+  color: grey;
+}
