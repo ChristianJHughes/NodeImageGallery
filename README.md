@@ -1,6 +1,6 @@
 # Node Image Gallery
 
-<b>A simple web server for serving image galleries. Users can upload images, add captions to existing images, and create custom galleries.<b>
+<b>A simple web server for serving image galleries. Users can upload images, add captions to existing images, and create custom galleries.</b>
 
 The server is built using the node.js framework. Formidable and querystring (both npm packages) handle file uploads and page edits, respectively.
 
