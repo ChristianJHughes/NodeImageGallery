@@ -6,5 +6,6 @@ The server is built using the node.js framework. Formidable and querystring (bot
 
 This project was an excercise in web serving tecniques. Therefore, the css isn't particualrly engaging :).
 <hr>
-![Image Gallery Screenshot 1](https://i.imgur.com/cF90Fxc.png "Image Gallery Screenshot 1")
-![Image Gallery Screenshot 2](https://i.imgur.com/PA72Cbf.png "Image Gallery Screenshot 2")
+
+![Image Gallery Screenshot 1](https://i.imgur.com/cF90Fxc.png)
+![Image Gallery Screenshot 2](https://i.imgur.com/PA72Cbf.png)
